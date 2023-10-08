@@ -11,6 +11,6 @@ numpy
 pandas
 particle
 scikit-hep-testdata
+zfit-physics>=0.6.0
 
-zfit>=0.15.0
-zfit-physics>=0.3.0
+zfit[all]>=0.15.0
