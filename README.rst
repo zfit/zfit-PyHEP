@@ -3,7 +3,7 @@ zfit PyHEP 2023
 ================================
 
 .. image:: https://zenodo.org/badge/534977784.svg
-   :target: https://zenodo.org/badge/latestdoi/534977784
+   :target: https://doi.org/10.5281/zenodo.8420969
 
 
 Run the notebooks in binder, no installation needed
