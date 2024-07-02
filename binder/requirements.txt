@@ -3,15 +3,11 @@
 hepstats
 hepunits
 hist
-jupyterlab~=4.0
 matplotlib
 mplhep
 notebook~=6.0
-numpy~=1.24.0
-pandas~=2.1.0
 particle
 scikit-hep-testdata
 uproot~=5.0.0
-zfit-physics~=0.6.0
-
-zfit[all]~=0.16.0
+zfit-physics~=0.7.0
+zfit[all]~=0.21.0

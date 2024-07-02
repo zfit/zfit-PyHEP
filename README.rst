@@ -9,12 +9,12 @@ zfit PyHEP 2024 fitting tutorial
 Run the notebooks in binder, no installation needed
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://binderhub.ssl-hep.org/v2/gh/zfit/zfit-PyHEP/PyHEP2023
+ :target: https://binderhub.ssl-hep.org/v2/gh/zfit/zfit-PyHEP/PyHEP2024
 
 The PyHEP talk is about `zfit <https://github.com/zfit/zfit#zfit-scalable-pythonic-fitting>`_
 with some examples on `hepstats <https://github.com/scikit-hep/hepstats#hepstats-package-statistics-tools-and-utilities>`_.
 
-zfit is a general purpose fitting package for Python, mostly focused on unbinned fits. This tutorial uses the 0.20+ version of zfit.
+zfit is a general purpose fitting package for Python, mostly focused on unbinned fits. This tutorial uses the 0.21+ version of zfit.
 
 To run the notebooks locally, download them and install the requirements with
 
