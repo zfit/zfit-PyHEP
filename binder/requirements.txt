@@ -3,6 +3,7 @@
 hepstats
 hepunits
 hist
+jupyterlab~=4.0
 matplotlib
 mplhep
 notebook~=6.0
